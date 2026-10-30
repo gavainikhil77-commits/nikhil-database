@@ -1,0 +1,11 @@
+{
+  "success": true,
+  "brand": "NIKHIL MODS",
+  "status": "ONLINE",
+  "version": "1.0",
+  "database": {
+    "status": "CONNECTED",
+    "type": "PUBLIC_STATS"
+  },
+  "message": "API is running successfully"
+}
